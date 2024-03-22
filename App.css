@@ -1,0 +1,9 @@
+.aa-file-upload.box {
+    border: 3px dashed #fff;
+    border-radius: 1em;
+    cursor: pointer;
+}
+
+.aa-file-upload.bt{
+    width: 100%;
+}
